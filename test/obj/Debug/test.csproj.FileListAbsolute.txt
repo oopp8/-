@@ -1,0 +1,7 @@
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\bin\Debug\test.exe
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\bin\Debug\test.pdb
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\obj\Debug\test.Form1.resources
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\obj\Debug\test.exe
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\obj\Debug\test.pdb
+D:\SZ\柜子-测试\X柜子\XEquipmentkit\test\bin\Debug\SynoAPIEx.dll
